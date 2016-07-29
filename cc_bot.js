@@ -53,7 +53,7 @@ function clickDaCookie () {
 }
 
 function clickDaGoldenCookieIfExists() {
-	$("#goldenCookie").click();
+	$("div.shimmer").click();
 }
 
 //var ccBot = document.createElement('script');
